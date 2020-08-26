@@ -1,0 +1,7 @@
+Studied about SRCNN and three important parts of the network. 1)Patch Extraction and Representation,2)Non-Linear Mapping,3)Reconstruction
+Studied about the loss function , Mean Square Error(MSE) and how different and efficient SRCNN is over other methods.
+Learnt about Bicubic Interpolation and two types of interpolation..Adaptive and non-adaptive.Also learnt the basic formula what creates the interpolated surface of the 2D image. 
+How diffetrent Bilinear and nearest-neighbor methods different. Also learnt the limitations of Bicubic Interpolation.
+Studied a little about Keras and its applications and how Tensorflow helps in building and training ML models easily using high-level APIs.
+
+
